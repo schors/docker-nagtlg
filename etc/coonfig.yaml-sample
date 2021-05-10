@@ -1,0 +1,6 @@
+Token: 1111:AAAA-bbbb
+NagiosUsernameField: address2
+UserFile: /usr/local/vnagios/var/tlgusers.cache
+LivestatusSocket: /usr/local/vnagios/var/rw/livestatus
+NagiosNotifySocket: /usr/local/vnagios/var/rw/tlg_notify
+
